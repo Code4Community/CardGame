@@ -1,0 +1,14 @@
+.card {
+display: inline-block;
+width: 150px;
+height: 250px;
+padding: 5px;
+border: 1px black;
+background-color: red;
+border-radius: 20px;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 5px  #363636;
+    transform: scale(1.05);
+}
