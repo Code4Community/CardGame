@@ -12,3 +12,8 @@ border-radius: 20px;
     box-shadow: 5px 5px 5px  #363636;
     transform: scale(1.05);
 }
+
+.p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

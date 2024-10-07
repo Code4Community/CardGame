@@ -1,0 +1,15 @@
+{
+  "name": "cardgame",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html> <html lang=\"en\">     <head>         <title>Card Game</title>     </head>     <body>     </body> </html>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
